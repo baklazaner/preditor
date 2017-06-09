@@ -1,4 +1,4 @@
 preditor
 ========
 
-Google Chrome extension which aggressively predicts your movements
+Google Chrome extension which aggressively predicts your movements and fetches sites
